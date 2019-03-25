@@ -1,3 +1,3 @@
 # First daftacademy homework
 
-Basic frontend configuration project.
+Basic frontend project configuration.
